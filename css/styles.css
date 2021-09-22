@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+}
+
+h3 {
+  margin-top: 0;
+}
+
+/*  div classes for top text/intro to site  */
+
+.top-links {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #9D9D9D;
+  width: 100%;
+  text-align: center;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.my-face {
+  /* makes my photo circular */
+  border-radius: 50%;
+}
+
+.table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.top-container {
+  background-color: #D7E9F7;
+  /*alligns the text*/
+  text-align: center;
+}
+
+.middle-container {
+  background-color: #E0C097;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%;
+  text-align: center;
+}
+
+.bottom-container {
+  background-color: #CEE5D0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%;
+  text-align: center;
+}
+
+.foot-container {
+  background-color: #316B83;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%;
+  /*alligns the text*/
+  text-align: center;
+}
